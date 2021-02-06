@@ -11,7 +11,7 @@ class Sam():
 		self.learning = 'C++'
 ```
 
-<p align="center" style="font-family: Georgia, serif">Contact me via Discord @ Sap ✭#7131</p>
+<p align="center" style="font-family: Georgia, serif">You can reach me via Discord @ Sap ✭#7131</p>
 
 <p align="center">
 	<a href="https://discord.com">
