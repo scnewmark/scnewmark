@@ -1,4 +1,4 @@
-![Pulsar](/images/name.jpg)
+<img src="images/image.png" height=60 width=750>
 
 <h1 style="text-align:center"></h1>
 
