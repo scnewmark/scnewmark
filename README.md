@@ -1,7 +1,5 @@
 <img src="images/image.png" height=60 width=950>
 
-<h1 style="text-align:center"></h1>
-
 ```py
 class Sam():
 	def __init__(self):
