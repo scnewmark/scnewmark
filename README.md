@@ -1,8 +1,18 @@
-```py
-class Sam():
-	def __init__(self):
-		self.name = 'Sam'
-		self.interests = ['Machine Learning/Artificial Intelligence']
-		self.languages = ['Java', 'Python', 'TypeScript', 'Go']
-		self.learning = ['C++', 'Rust']
-```
+```go
+package main
+
+type Programmer struct {
+	Name string
+	Interests []string
+	Languages []string
+	Learning []string
+}
+
+func main() {
+	me := &Programmer{
+		Name: "Sam",
+		Interests: []string{"Machine Learning/AI"},
+		Languages: []string{"TypeScript", "Python", "Java, "Go"},
+		Learning: []string{"C++"},
+	}
+}
