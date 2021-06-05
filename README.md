@@ -2,17 +2,18 @@
 package main
 
 type Programmer struct {
-	Name string
+	Name      string
 	Interests []string
 	Languages []string
-	Learning []string
+	Learning  []string
 }
 
 func main() {
 	me := &Programmer{
-		Name: "Sam",
+		Name:      "Sam",
 		Interests: []string{"Machine Learning/AI"},
-		Languages: []string{"TypeScript", "Python", "Java, "Go"},
-		Learning: []string{"C++"},
+		Languages: []string{"TypeScript", "Python", "Java", "Go"},
+		Learning:  []string{"C++"},
 	}
 }
+```
