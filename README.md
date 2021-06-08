@@ -1,8 +1,8 @@
-## Hi there
+## 👋🏻 Hi there
 
-My name is Sam and I'm a student in Austin, Texas. In my free time, I enjoy coding, photography, reading books, and videogames. 
+My name is Sam and I'm a student in Austin, Texas. In my free time, I enjoy coding, photography, reading books, and video games. 
 
-### 📚  Skills
+### 📚  Skillsx
 - Java 
 - TypeScript
      - [React](https://reactjs.org/) with [Next.js](https://nextjs.org)
