@@ -2,7 +2,7 @@
 
 My name is Sam and I'm a student in Austin, Texas. In my free time, I enjoy coding, photography, reading books, and video games. 
 
-### 📚  Skillsx
+### 📚  Skills
 - Java 
 - TypeScript
      - [React](https://reactjs.org/) with [Next.js](https://nextjs.org)
