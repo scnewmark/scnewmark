@@ -15,7 +15,7 @@ My name is Sam and I'm a student in Austin, Texas. In my free time, I enjoy codi
 ### 🔭  Current Projects
 - A Breakout clone using [Go](https://golang.org) and [Ebiten](https://https://ebiten.org/) - [View it here](https://github.com/scnewmark/breakout)
 
-### 🌱  Currely Learning
+### 🌱  Currently Learning
 - Artifical Intelligence with [Inspirit AI](https://www.inspiritai.com/)
 - C++
 
