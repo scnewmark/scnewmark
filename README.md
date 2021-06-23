@@ -1,6 +1,6 @@
 ## 👋🏻 Hi there
 
-My name is Sam and I'm a student in Austin, Texas. In my free time, I enjoy coding, photography, reading books, and video games. 
+My name is Sam and I'm a student in Austin, Texas. I enjoy coding and my favorite technologies right now are Go, React w/Next.js, GraphQL, and PostgreSQL.
 
 ### 📚  Skills
 - Java 
@@ -14,8 +14,8 @@ My name is Sam and I'm a student in Austin, Texas. In my free time, I enjoy codi
      - Ebiten
 
 ### 🔭  Current Projects
+- Rewrite of my [website](https://github.com/scnewmark/website)
 - WIP Chess Engine & API - [View it here](https://github.com/scnewmark/victoria)
-- A Breakout clone using [Go](https://golang.org) and [Ebiten](https://https://ebiten.org/) - [View it here](https://github.com/scnewmark/breakout)
 
 ### 🌱  Currently Learning
 - C++
