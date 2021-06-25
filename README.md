@@ -7,10 +7,7 @@ My name is Sam and I'm a student in Austin, Texas. I enjoy coding and my favorit
 
 ### 🔭  Current Projects
 - Rewrite of my [website](https://github.com/scnewmark/website)
-- WIP Chess Engine & API - [View it here](https://github.com/scnewmark/victoria)
-
-### 🌱  Currently Learning
-- C++
+- Chess Engine & API - [View it here](https://github.com/scnewmark/victoria)
 
 ### 📫  Contact
 - Send me a message [here](https://scnewmark-v2.vercel.app/contact)
