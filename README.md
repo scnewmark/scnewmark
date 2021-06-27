@@ -10,4 +10,4 @@ My name is Sam and I'm a student in Austin, Texas. I enjoy coding and my favorit
 - Chess Engine & API - [View it here](https://github.com/scnewmark/victoria)
 
 ### 📫  Contact
-- Send me a message [here](https://scnewmark.vercel.app/contact)
+- View my contact info [here](https://scnewmark.vercel.app/contact)
